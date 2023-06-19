@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-17T21:57:52Z" name="Default suite" finished-at="2023-06-17T21:57:53Z" duration-ms="507">
+    <groups>
+    </groups>
+    <test started-at="2023-06-17T21:57:52Z" name="Default test" finished-at="2023-06-17T21:57:53Z" duration-ms="507">
+      <class name="practical2.WordMeanings">
+        <test-method signature="printWordsAndMeanings()[pri:0, instance:practical2.WordMeanings@258d79be]" started-at="2023-06-17T21:57:52Z" name="printWordsAndMeanings" finished-at="2023-06-17T21:57:53Z" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printWordsAndMeanings -->
+      </class> <!-- practical2.WordMeanings -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
